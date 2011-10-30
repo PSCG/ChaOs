@@ -102,7 +102,7 @@
       0 as long, _
       hIcon as ulong
 
-  szApp$ = "About ChaOs ver 1.0 # Built in Liberty Basic ver 4.03"
+  szApp$ = "About ChaOs ver 1.0 # Built in Liberty Basic ver 4.04"
   cr$ = chr$(13)
   szOtherStuff$ = cr$ + "Created by Alexander Kampolis" + cr$
 
